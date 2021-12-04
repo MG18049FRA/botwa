@@ -1,0 +1,3 @@
+/*
+Support bot ini dengan donasi
+*/
